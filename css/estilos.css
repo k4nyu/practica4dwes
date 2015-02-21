@@ -1,0 +1,81 @@
+body{
+    font-family: "arial";
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+.plato{
+      margin-bottom: 50px;
+      margin-top: 50px;
+      background-color: #2fb74e;
+      
+}
+#divajax{
+    margin: 0 auto;
+}
+#divajax table tr{
+    margin-left: 20px;
+}
+img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 30px;
+    margin: 0 auto;
+}
+
+input[type=text]{
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+input[type=password]{
+    margin-left: 14px;
+    margin-bottom: 15px;
+}
+.nombre{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.descripcion{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+header{
+    margin-bottom: 50px;    
+    background-color: #006666;
+    font-size: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+} 
+
+.plato p{
+    margin: 0 auto;
+}
+
+.container{
+    margin:0 auto;
+    width: 70%;
+    background-color: #99ff99;
+    margin-top: -50px;
+}
+.contenedor{
+    margin:0 auto;
+    margin-top: 100px;
+    width: 30%;
+}
